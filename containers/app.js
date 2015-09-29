@@ -1,9 +1,7 @@
-/** @jsx React.DOM */
-
-var React = require('react');
+import React from 'react';
 
 var App = React.createClass({
-    render: function() {
+    render: function () {
         return (
             <h1>Hello</h1>
         );
