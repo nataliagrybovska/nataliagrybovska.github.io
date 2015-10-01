@@ -1,0 +1,24 @@
+@import url("semantic-ui/semantic.min.css");
+@import url("semantic-ui/components/icon.min.css");
+
+.page-content {
+    margin: 5% auto;
+    width: 20%;
+}
+
+.main-img {
+    width: 300px !important;
+    height: 300px !important;
+}
+
+.name-panel {
+    margin-top: 10px;
+}
+
+.name-panel h2 {
+    font-weight: 100;
+}
+
+.social-panel {
+    margin-top: 26px;
+}
