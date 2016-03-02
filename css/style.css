@@ -4,6 +4,7 @@
 
 .page-content {
     margin: 5% auto;
+    min-width: 300px;
     width: 20%;
 }
 
@@ -23,4 +24,9 @@
 
 .social-panel {
     margin-top: 26px;
+}
+
+.social-panel .social-button {
+    display: block;
+    text-align: center;
 }

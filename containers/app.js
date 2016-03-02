@@ -14,27 +14,27 @@ var App = React.createClass({
                         </div>
                         <div className="row social-panel">
                             <div className="column">
-                                <a href="http://github.com/nataliagrybovska" target="_blank">
+                                <a className="social-button" href="http://github.com/nataliagrybovska" target="_blank">
                                     <i className="big github square grey icon link icon"/>
                                 </a>
                             </div>
                             <div className="column">
-                                <a href="http://www.facebook.com/natasha.gribowski" target="_blank">
+                                <a className="social-button" href="http://www.facebook.com/natasha.gribowski" target="_blank">
                                     <i className="big facebook square grey icon link icon"/>
                                 </a>
                             </div>
                             <div className="column">
-                                <a href="http://instagram.com/natalia.grybovska/" target="_blank">
+                                <a className="social-button" href="http://instagram.com/natalia.grybovska/" target="_blank">
                                     <i className="big instagram square grey icon link icon"/>
                                 </a>
                             </div>
                             <div className="column">
-                                <a href="https://telegram.me/NataliaGrybovska" target="_blank">
+                                <a className="social-button" href="https://telegram.me/NataliaGrybovska" target="_blank">
                                     <i className="big send grey icon link icon"/>
                                 </a>
                             </div>
                             <div className="column">
-                                <a href="mailto:natasha.grybovska@gmail.com" target="_blank">
+                                <a className="social-button" href="mailto:natasha.grybovska@gmail.com" target="_blank">
                                     <i className="big mail grey icon link icon"/>
                                 </a>
                             </div>
