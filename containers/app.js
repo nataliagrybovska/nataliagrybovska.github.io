@@ -19,7 +19,7 @@ var App = React.createClass({
                                 </a>
                             </div>
                             <div className="column">
-                                <a className="social-button" href="http://www.facebook.com/natasha.gribowski" target="_blank">
+                                <a className="social-button" href="http://www.facebook.com/natalia.grybovska" target="_blank">
                                     <i className="big facebook square grey icon link icon"/>
                                 </a>
                             </div>
